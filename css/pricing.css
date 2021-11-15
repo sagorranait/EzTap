@@ -1,0 +1,88 @@
+.eztap_pricing .table-responsive {
+  box-shadow: 0 3px 35px rgba(0, 0, 0, 0.08);
+  background: #fff;
+}
+.eztap_pricing .table-responsive table thead tr th {
+  border-right: 1px solid #eceeef;
+}
+.eztap_pricing .table-responsive table thead tr th:last-child {
+  border-right: 0px;
+}
+.eztap_pricing .table-responsive table tbody tr th {
+  border-right: 1px solid #eceeef;
+}
+.eztap_pricing .table-responsive table tbody tr th:last-child {
+  border-right: 0px;
+}
+.eztap_pricing .table-responsive table tbody tr td {
+  border-right: 1px solid #eceeef;
+}
+.eztap_pricing .table-responsive table tbody tr td:last-child {
+  border-right: 0px;
+}
+.eztap_pricing .pricing_image {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  min-width: 700px;
+  padding-left: 18px;
+}
+.pricing_info {
+  text-align: center;
+  padding: 10px 20px;
+}
+.pricing_info h3 {
+  font-size: 19px;
+}
+.pricing_info p {
+  font-size: 12px;
+  font-weight: normal;
+  padding: 0px 5px;
+  line-height: 17px;
+}
+.pricing_info .pricing_btn {
+  display: block;
+  background: #009efb;
+  padding: 10px 20px;
+  color: #fff;
+  font-weight: normal;
+  font-size: 16px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.pricing_info a {
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: underline;
+  margin: 12px 0px;
+}
+.pricing_title h2 {
+  font-size: 16px;
+  margin: 0;
+  padding-left: 18px;
+}
+.pricing_description p {
+  font-size: 14px;
+  font-weight: normal;
+  display: inline-block;
+  margin: 0;
+  padding-left: 18px;
+}
+.pricing_description p a {
+  color: #009efb;
+}
+.pricing_description p .fa-check-circle {
+  color: #30d35f;
+  font-size: 18px;
+}
+.pricing_description p .fa-times-circle {
+  color: #ff3d3d;
+  font-size: 18px;
+}
+.pricing_description span {
+  padding-left: 4px;
+}
+.pricing_description span i {
+  font-size: 14px;
+  color: #666;
+}
